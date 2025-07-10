@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue) ![Turtle](https://img.shields.io/badge/Turtle-GUI-green) [![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-A classic arcade-style **space shooter** game built using Python’s `turtle` module. Take control of a fighter jet, battle waves of alien invaders, collect power-ups, and survive through increasingly difficult levels. Feel the nostalgia of retro gaming, DevKay style!
+A classic arcade-style **Space-Invaders-by-DevKay** game built using Python’s `turtle` module. Take control of a fighter jet, battle waves of alien invaders, collect power-ups, and survive through increasingly difficult levels. Feel the nostalgia of retro gaming, DevKay style!
 
 ---
 
@@ -45,7 +45,7 @@ Clone the repository and run the game:
 ```bash
 git clone https://github.com/DharminJoshi/Space-Invaders-Game-By-DevKay.git
 cd Space-Invaders-Game-By-DevKay
-python game_test.py
+python game.py
 ```
 
 ---
@@ -104,16 +104,23 @@ Contributions are welcome!
 
 ## 💼 License
 
-This project is licensed under the  
-**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+This project, **Space-Invaders-by-DevKay**, is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**. You are free to share, adapt, and modify the project for non-commercial purposes, provided that you give appropriate credit to the original creator (Dharmin Joshi/DevKay). Commercial use of this project is not permitted.
 
-> You are free to share, adapt, and modify for non-commercial purposes with proper credit.  
-> No commercial use is allowed without permission.
-
-🔗 [Read Full License](https://creativecommons.org/licenses/by-nc/4.0/)
+For more details, see the full license: [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ---
 
+## © Copyright Disclaimer:
+
+This project, **Space-Invaders-by-DevKay**, is intended for educational and personal use only. All content, including code, images, and resources, are used under the principle of fair use. The project is a non-commercial, open-source endeavor created for learning purposes and is not associated with any official or commercial entity.
+
+All trademarks, logos, and brand names mentioned or used in this project are the property of their respective owners. This project does not claim ownership of any of these trademarks, logos, or brand names.
+
+The project is provided "as is" without any warranties, express or implied. The creator of this project is not responsible for any direct or indirect consequences arising from its use.
+
+This project belongs to **DharminJoshi/DevKay** and is hosted on GitHub.
+
+---
 ## ⚠️ Disclaimer
 
 This game is intended **only for educational and personal use**.  
