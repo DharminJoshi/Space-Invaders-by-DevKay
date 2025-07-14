@@ -6,7 +6,7 @@ Copyright (c) 2025 DevKay. All rights reserved.
 This code is part of the Space Invaders game created by DevKay. You may not use,
 modify, or distribute this code without permission from the original author, except
 for personal use and non-commercial purposes. For inquiries, please contact DevKay
-via GitHub or at [your contact info if desired].
+via GitHub or Email at info.dharmin@gmail.com .
 
 Description:
 This is a simple space-themed shooter game where the player controls a fighter plane that moves left and right to shoot down incoming alien enemies. The player earns points for each alien destroyed and can use power-ups like extra lives, bombs, and a double score boost. The player progresses through different levels, each with faster and more numerous enemies. The game ends when the player runs out of lives.
@@ -18,7 +18,7 @@ Features:
 - Pause and resume functionality.
 - Customizable player and enemy sprites.
 
-Developed by: DevKay
+Developed by: Dharmin Joshi / DevKay
 GitHub: https://github.com/DharminJoshi
 Date: 2025
 """
